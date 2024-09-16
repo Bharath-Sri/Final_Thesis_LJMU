@@ -1,0 +1,10 @@
+node_modules
+
+coverage/
+VTN/*.json
+VTN/*.csv
+# track these files, if they exist
+!.gitignore
+!.editorconfig
+!.phpcs.xml.dist
+!.env

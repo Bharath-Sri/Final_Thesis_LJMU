@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "keywords": ["hello", "hey"],
+      "responses": [
+        { "text": "Hello I am CodeAstra 🤖! How can I assist you today?" }
+      ]
+    }
+  ]
+}
